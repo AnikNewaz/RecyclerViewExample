@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Superhero Bio</string>
+    <string name="progressMsgText">Loading Data...</string>
+</resources>
